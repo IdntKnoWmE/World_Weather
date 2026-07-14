@@ -10,9 +10,7 @@ A modern, high-performance weather forecasting and air quality tracking dashboar
 
 Check out the dashboard layouts, dynamic layer switching, and visual analytics in action:
 
-https://github.com
-
-> **Tip**: If you have a GIF version, you can display it using: `![Application Demo](./src/assets/demo.gif)`
+[https://github.com](https://drive.google.com/file/d/1YPnSbTcbrPasdiXSQpqNrrIytZr6FuZn/view?usp=sharing)
 
 ---
 
